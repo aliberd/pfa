@@ -1,0 +1,2 @@
+http://fr.wikipedia.org/wiki/Cross-site_request_forgery
+

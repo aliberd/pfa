@@ -166,7 +166,7 @@ namespace Securitool
             {
                 label12.Enabled = true;
             }
-            else if (Convert.ToString(comboBoxTypeRequestXSS.SelectedValue.ToString()) == "GET")
+            else if (Convert.ToString(comboBoxTypeRequestXSS.SelectedValue) == "GET")
             {
                 label12.Enabled = false;
             }

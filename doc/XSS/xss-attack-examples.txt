@@ -1,2 +1,0 @@
-http://www.acunetix.com/websitesecurity/xss/			: Exemple simplife
-http://www.thegeekstuff.com/2012/02/xss-attack-examples/	: Exemples un peu plus pousses
